@@ -102,7 +102,7 @@ body {
 
 .image-item {
     position: relative;
-    width: 190px;
+    width: 200px;
     height: 190px;
     overflow: hidden;
     transition: transform 0.3s;
